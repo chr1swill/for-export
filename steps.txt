@@ -1,0 +1,16 @@
+HTML
+
+main with two sections inside #img-section #content-sections
+
+inside #img-section add img
+
+inside #content-section add #content-wrapper
+
+inside #content-wrapper add h3 + .text-wrapper + .cta
+
+inside .text-wrapper add h1 + p + .price> h1 + p
+
+inside .cta add svg h2
+
+CSS
+
